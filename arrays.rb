@@ -27,9 +27,11 @@ steak_weight_pounds = [0.25, 0.5, 0.75, 1.25]
 #The below method will return the steak_weight array and add the integer 24 to it
 
 steak_weight.push 24
+puts steak_weight
 
 ## Shift method
 
 #The below method will remove .25 from the steak weights array
 
 steak_weight_pounds.shift
+puts steak_weight_pounds
