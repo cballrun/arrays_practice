@@ -54,3 +54,7 @@ puts friends[0]
 #The below will return the value 24 (added using push earlier) from the steak_weight array
 
 puts steak_weight[4]
+
+#The additional array method I chose wasa length. This method tells you how many variables are within an array. Running length on the array friends will return the value 4 since I removed the value "Chase" earlier
+
+friends.length
