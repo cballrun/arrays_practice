@@ -49,8 +49,8 @@ puts f1
 
 #The below will return the value "Paul" from the array friends
 
-friends[0]
+puts friends[0]
 
 #The below will return the value 24 (added using push earlier) from the steak_weight array
 
-steak_weight[4]
+puts steak_weight[4]
