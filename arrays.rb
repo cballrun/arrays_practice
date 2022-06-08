@@ -26,7 +26,7 @@ f1 = [true, true, false, false]
 
  ## Push Method
 
-#The below method will return the steak_weight array and add the integer 24 to it
+#The below method will return the steak_weight array and add the integer 24 to  the end of the array
 
 steak_weight.push 24
 puts steak_weight
@@ -44,3 +44,13 @@ puts steak_weight_pounds
 
 f1.unshift true
 puts f1
+
+## Index Positions
+
+#The below will return the value "Paul" from the array friends
+
+friends[0]
+
+#The below will return the value 24 (added using push earlier) from the steak_weight array
+
+steak_weight[4]
