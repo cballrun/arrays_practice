@@ -14,8 +14,6 @@ steak_weight_pounds = [0.25, 0.5, 0.75, 1.25]
 
 ## Boolean Variables
 
-logic_statements = [1 = 1, 2 = 1, 4 < 5, 5 > 4]
-
 
 ## Pop Method
 
@@ -35,10 +33,3 @@ steak_weight.push 24
 #The below method will remove the boolean 5 = true from the array large_weight and return the value 5 = true
 
 large_weight.shift
-
-
-## Unshift method
-
-The below method will add 2 to the beginning of the steak_weight_pounds Arrays
-
-steak_weight_pounds.unshift 24
