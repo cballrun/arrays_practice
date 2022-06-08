@@ -14,6 +14,8 @@ steak_weight_pounds = [0.25, 0.5, 0.75, 1.25]
 
 ## Boolean Variables
 
+f1 = [true, true, false, false]
+
 
 ## Pop Method
 
@@ -31,7 +33,14 @@ puts steak_weight
 
 ## Shift method
 
-#The below method will remove .25 from the steak weights array
+#The below method will remove .25 from the steak_weight_pounds array and the command will return the remaining values in steak_weight_pounds
 
 steak_weight_pounds.shift
 puts steak_weight_pounds
+
+## Unshift method
+
+#The below method will add another true value to the beginning of f1 and the command will return the boolean values
+
+f1.unshift true
+puts f1
