@@ -14,7 +14,7 @@ steak_weight_pounds = [0.25, 0.5, 0.75, 1.25]
 
 ## Boolean Variables
 
-large_weight = [5 = true], [20 = true], [1 = false], [2 = false]
+logic_statements = [1 = 1, 2 = 1, 4 < 5, 5 > 4]
 
 
 ## Pop Method
