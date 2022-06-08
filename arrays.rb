@@ -30,6 +30,6 @@ steak_weight.push 24
 
 ## Shift method
 
-#The below method will remove the boolean 5 = true from the array large_weight and return the value 5 = true
+#The below method will remove .25 from the steak weights array
 
-large_weight.shift
+steak_weight_pounds.shift
